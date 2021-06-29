@@ -7,4 +7,7 @@
 * [我的Fire生活](wo-de-fire-sheng-huo.md)
 * [增长](zeng-chang.md)
 * [UG](ug.md)
+* [社区引擎](she-qu-yin-qing.md)
+  * [Q&A](she-qu-yin-qing/qanda.md)
+* [举报](ju-bao.md)
 
