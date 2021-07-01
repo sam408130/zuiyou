@@ -9,6 +9,7 @@
 * [UG](ug.md)
 * [社区引擎](she-qu-yin-qing.md)
   * [Q&A](she-qu-yin-qing/qanda.md)
+  * [OKR](she-qu-yin-qing/okr.md)
 * [举报](ju-bao.md)
-* [自我介绍](zi-wo-jie-shao.md)
+* [self](zi-wo-jie-shao.md)
 
