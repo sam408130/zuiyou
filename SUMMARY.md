@@ -11,6 +11,7 @@
   * [Q&A](she-qu-yin-qing/qanda.md)
   * [OKR](she-qu-yin-qing/okr.md)
   * [如何从0到1，打造互联网社区](she-qu-yin-qing/ru-he-cong-0-dao-1-ff0c-da-zao-hu-lian-wang-she-qu.md)
+  * [如何做社区](she-qu-yin-qing/ru-he-zuo-she-qu.md)
 * [举报](ju-bao.md)
 * [self](zi-wo-jie-shao.md)
 
